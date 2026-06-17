@@ -155,19 +155,31 @@ El modelo logró explicar aproximadamente el 91,6% de la variabilidad observada 
 
 # Estructura del Repositorio
 
-```text
-Evaluación_Parcial/
+Aprendizaje_Automatico_Parcial_2026/
 │
-├── Alquileres_RioGrande (Final).ipynb
-├── Dataset_precios_alquiler_RioGrande_Final.xlsx
-├── Diccionario de Datos.docx
-├── Informe Técnico - Predicción de Precios de Alquileres.docx
-├── README.md
+├── data/
+│   ├── raw/
+│   └── processed/
 │
-├── Entrega_1/
-├── Dataset_original/
-└── Documentación/
-```
+├── notebooks/
+│   ├── Alquileres_RioGrande.ipynb
+│   └── Alquileres_RioGrande_Final.ipynb
+│
+├── reports/
+│   ├── Informe Tecnico.docx
+│   ├── Diccionario de Datos.docx
+│   └── Presentacion_proyecto.md
+│
+├── references/
+│   ├── Programa Aprendizaje Automático 2026.pdf
+│   ├── Rúbrica de Evaluación.pdf
+│   └── Lineamientos generales.pdf
+│
+├── src/
+│   └── .gitkeep
+│
+├── requirements.txt
+└── README.md
 
 ---
 
