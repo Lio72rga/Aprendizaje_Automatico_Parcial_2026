@@ -1,0 +1,1000 @@
+ID;Precio;Barrio;Ciudad;Mapa ubicacion;Latitud;Longitud;Ambientes;Metros²;Tipo_propiedad;Amoblado;Antigüedad;Baños;Cochera;Mascotas_permitidas;Expensas_incluidas;Fecha_publicacion;Fecha_relevamiento;Fuentes;Id_publicacion
+1;400.000,00;centro;rio grande;como llegar;-53,786938;-67,708307;2;85;departamento;no;28;1;no;NaN;no;27-04-2026;16-05-2026;Mercado Libre;slc1871
+2;550.000,00;camionero;rio grande;como llegar;-53,784657;-67,724129;3;70;loft;no;20;1;si;si;no;27-04-2026;16-05-2026;Mercado Libre;slc1872
+3;600.000,00;mutual;rio grande;como llegar;-53,771053;-67,710684;3;56;duplex;semi;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1873
+4;750.000,00;cgt;rio grande;como llegar;-53,75951;-67,727405;3;60;casa;no;NaN;1;si;si;NaN;08/05/2026;16-05-2026;Argenprop;slc1874
+5;480.000,00;chacra XIII;rio grande;como llegar;-53,800836;-67,753992;4;67;departamento;no;14;1;si;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1875
+6;500.000,00;centro;rio grande;como llegar;-32,802409;-70,906997;2;30;departamento;no;a estrenar;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1876
+7;750.000,00;centro;rio grande;como llegar;-53,781672;-67,694712;3;54;departamento;si;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1877
+8;700.000,00;mutual;rio grande;como llegar;-53,770672;-67,713129;3;100;duplex;no;NaN;1;no;NaN;si;08/05/2026;16-05-2026;Argenprop;slc1878
+9;500.000,00;cgt;rio grande;como llegar;-53,774095;-67,728926;2;40;departamento;no;NaN;1;no;no  ;NaN;08/05/2026;16-05-2026;Argenprop;slc1879
+10;480.000,00;chacra IV;rio grande;como llegar;-53,774314;-67,728872;2;50;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1880
+11;750.000,00;chacra XIII;rio grande;como llegar;-53,799821;-67,756489;4;67;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1881
+12;450.000,00;danes;rio grande;como llegar;-53,792378;-67,723764;2;45;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1882
+13;400.000,00;intevu;rio grande;como llegar;-53,790895;-67,722465;2;45;departamento;no;NaN;1;no;no;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1883
+14;1.400.000,00;centro;rio grande;como llegar;-53,756865;-67,726086;2;190;casa;no;NaN;1;no;no;no;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1884
+15;450.000,00;chacra XIII;rio grande;como llegar;-53,801155;-67,759848;2;55;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1885
+16;600.000,00;chacra II;rio grande;como llegar;-53,765856;-67,723841;4;53;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1886
+17;750.000,00;centro;rio grande;como llegar;-53,791059;-67,691998;3;80;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1887
+18;700.000,00;buena vista;rio grande;como llegar;-53,772582;-67,721139;3;60;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1888
+19;450.000,00;chacra XIII;rio grande;como llegar;-53,799418;-67,751896;2;60;departamento;semi;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1889
+20;1.500.000,00;agp;rio grande;como llegar;-53,796997;-67,683927;6;240;casa;no;NaN;3;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1890
+21;700.000,00;chacra rafull;rio grande;como llegar;-53,780077;-67,718139;4;70;departamento;no;NaN;1;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1891
+22;650.000,00;san martin;rio grande;como llegar;-53,789218;-67,734241;4;45;departamento;no;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1892
+23;2.400.000,00;barrancas;rio grande;como llegar;-53,751535;-67,734949;8;190;casa;si;NaN;3;si;NaN;NaN;08/05/2026;16-05-2026;Inmobiliaria TDF;slc1893
+24;770.000,00;centro;rio grande;como llegar;-53,785055;-67,697889;2;50;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1894
+25;600.000,00;chacra IV;rio grande;como llegar;-53,771072;-67,736591;3;NaN;casa;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soliciones Inmob.;slc1895
+26;400.000,00;aeropuerto;rio grande;como llegar;-53,789634;-67,751039;1;20;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1896
+27;600.000,00;danes;rio grande;como llegar;-53,784901;-67,715218;3;NaN;departamento;semi;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1897
+28;450.000,00;uom margen sur;rio grande;como llegar;-53,811352;-67,679979;2;30;departamento;no;a estrenar;1;si;no;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1898
+29;280.000,00;parque industrial;rio grande;como llegar;-53,795998;-67,717963;1;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1899
+30;790.000,00;chacra II;rio grande;como llegar;-53,768509;-67,718258;3;NaN;casa;no;NaN;1;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1900
+31;550.000,00;chacra II;rio grande;como llegar;-53,764579;-67,717703;3;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1901
+32;400.000,00;chacra IV;rio grande;como llegar;-53,772965;-67,736876;2;NaN;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1902
+33;900.000,00;centro;rio grande;como llegar;-53,782725;-67,697143;3;70;departamento;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1903
+34;1.950.000,00;mutual;rio grande;como llegar;-53,771888;-67,705285;9;NaN;casa;no;NaN;3;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1904
+35;1.700.000,00;chacra IV;rio grande;como llegar;-53,772974;-67,731593;6;180;casa;no;NaN;2;si;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1905
+36;880.000,00;centro;rio grande;como llegar;-53,789931;-67,705369;4;NaN;casa;no;NaN;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1906
+37;350.000,00;vapor amadeo;rio grande;como llegar;-53,794823;-67,782109;1;20;monoambiente;no;a estrenar;1;no;NaN;NaN;09/05/2026;17-05-2026;Soluciones Inmob.;slc1907
+38;450.000,00;aeropuerto;rio grande;como llegar;-53,789058;-67,753533;4;105;casa;no;NaN;1;no;NaN;NaN;23/05/2026;17-05-2026;argenprop;slc1908
+39;750.000,00;aeropuerto;rio grande;como llegar;-53,788145;-67,751928;5;95;casa;no;NaN;2;si;NaN;NaN;23/05/2026;31-05-2026;Inmobiliaria TDF;slc1909
+40;600.000,00;cgt;rio grande;como llegar;-53,762478;-67,730151;5;67;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Inmobiliaria TDF;slc1910
+41;500.000,00;centro;rio grande;como llegar;-53,788587;-67,713385;2;35;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1911
+42;490.000,00;san martin;rio grande;como llegar;-53,787951;-67,729965;2;NaN;departamento;no;NaN;1;no;si;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1912
+43;820.000,00;mutual;rio grande;como llegar;-53,773076;-67,706724;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1913
+44;510.000,00;buena vista;rio grande;como llegar;-53,773092;-67,718073;3;NaN;departamento;no;NaN;1;no;si;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1914
+45;430.000,00;austral;rio grande;como llegar;-53,801797;-67,662919;2;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1915
+46;620.000,00;cgt;rio grande;como llegar;-53,765557;-67,731807;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1916
+47;440.000,00;camionero;rio grande;como llegar;-53,784069;-67,722821;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1917
+48;750.000,00;chacra XI ;rio grande;como llegar;-53,787737;-67,771412;2;40;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Solucione Inmob.;slc1918
+49;750.000,00;parque industrial;rio grande;como llegar;-53,795827;-67,719679;6;NaN;casa;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1919
+50;490.000,00;cgt;rio grande;como llegar;-53,764921;-67,730727;2;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1920
+51;920.000,00;mutual;rio grande;como llegar;-53,773512;-67,714424;3;NaN;duplex;no;NaN;1;si;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1921
+52;400.000,00;centro;rio grande;como llegar;-53,793593;-67,701241;1;NaN;monoambiente;no;NaN;1;no;no;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1922
+53;380.000,00;austral;rio grande;como llegar;-53,805416;-67,673929;3;NaN;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1923
+54;1.200.00,00;mutual;rio grande;como llegar;-53,766945;-67,714493;4;NaN;casa;no;NaN;2;no;NaN;NaN;02-04-2026;31-05-2026;Soluciones Inmob.;slc1924
+55;2.400.000,00;las barrancas;rio grande;como llegar;-53,758105;-67,726599;7;NaN;casa;si;NaN;3;si;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1925
+56;790.000,00;mutual;rio grande;como llegar;-53,772469;-67,710788;3;NaN;departamento;no;NaN;2;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1926
+57;600.000,00;danes;rio grande;como llegar;-53,785142;-67,715057;3;NaN;departamento;semi;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1927
+58;520.000,00;chacra XI;rio grande;como llegar;-53,791411;-67,711082;2;45;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1928
+59;680.000,00;chacra IV;rio grande;como llegar;-53,786497;-67,706634;3;75;departamento;no;NaN;1;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1929
+60;480.000,00;buena vista;rio grande;como llegar;-53,774622;-67,723618;2;40;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1930
+61;800.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;4;95;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1931
+62;390.000,00;vapor amadeo;rio grande;como llegar;-53,807419;-67,779917;1;25;monoambiente;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1932
+63;950.000,00;mutual;rio grande;como llegar;-53,789062;-67,707071;3;85;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1933
+64;470.000,00;chacra XIII;rio grande;como llegar;-53,801766;-67,758179;2;50;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1934
+65;1.200.000.00;las barrancas;rio grande;como llegar;-53,758149;-67,724837;5;150;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1935
+66;430.000,00;aeropuerto;rio grande;como llegar;-53,788189;-67,748817;2;35;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1936
+67;780.000,00;centro;rio grande;como llegar;-53,786963;-67,696197;3;70;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1937
+68;560.000,00;chacra II;rio grande;como llegar;-53,782452;-67,711181;3;65;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1938
+69;720.000,00;chacra IV;rio grande;como llegar;-53,784741;-67,709719;4;80;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1939
+70;480.000,00;buena vista;rio grande;como llegar;-53,773044;-67,727492;2;42;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1940
+71;890.000,00;centro;rio grande;como llegar;-53,789496;-67,699177;3;75;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1941
+72;410.000,00;chacra XIII;rio grande;como llegar;-53,801159;-67,752399;2;38;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1942
+73;1.050.000,00;barrancas;rio grande;como llegar;-53,757566;-67,725416;5;160;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1943
+74;460.000,00;aeropuerto;rio grande;como llegar;-53,788344;-67,749675;2;36;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1944
+75;780.000,00;mutual;rio grande;como llegar;-53,771838;-67,709451;3;72;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1945
+76;920.000,00;chacra XI;rio grande;como llegar;-53,796141;-67,717124;4;90;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1946
+77;500.000,00;vapor amadeo;rio grande;como llegar;-53,807551;-67,779997;2;40;departamento;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1947
+78;620.000,00;centro;rio grande;como llegar;-53,779921;-67,713398;2;55;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1948
+79;710.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;3;70;Departamento;No;NaN;1;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1949
+80;880.000,00;centro;rio grande;como llegar;-53,785072;-67,709396;4;85;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1950
+81;470.000,00;mutual;rio grande;como llegar;-53,774051;-67,708024;2;45;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1951
+82;1.050.000,00;buena vista;rio grande;como llegar;-53,773199;-67,720604;5;150;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1952
+83;560.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,750855;2;40;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1953
+84;780.000,00;buena vista;rio grande;como llegar;-53,774616;-67,723369;3;72;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1954
+85;920.000,00;vapor amadeo;rio grande;como llegar;-53,807274;-67,779948;4;90;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1955
+86;410.000,00;chacra XIII;rio grande;como llegar;-53,801027;67,752321;2;38;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1956
+87;1.200.000,00;barrancas;rio grande;como llegar;-53,758343;-67,726457;5;160;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1957
+88;720.000,00;Centro;rio grande;como llegar;-53,785456;-67,703023;2;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1968
+89;950.000,00;Chacra II;rio grande;como llegar;-53,766013;-67,723367;3;80;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1969
+90;680.000.00;mutual;rio grande;como llegar;-53,773033;-67,706719;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1970
+91;1.150.000,00;barrancas;rio grande;como llegar;-53,759757;-67,725835;4;140;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1971
+92;850.000,00;buena vista;rio grande;como llegar;-53,771649;-67,717943;3;75;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1972
+93;620.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,748859;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1973
+94;780.000,00;centro;rio grande;Av. Belgrano 980;-53,786591;-67,701911;2;60;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1974
+95;1.350.000,00;vapor amadeo;rio grande;BºVapor Amadeo;-537,81911;-677,14911;5;180;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1975
+96;890.000,00;chacra XIII;rio grande;Bº Chacra XIII;-537,69191;-677,22911;3;85;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1976
+97;730.000,00;mutual;rio grande;Mutual;-537,74911;-677,19111;2;58;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1977
+98;990.000,00;buena vista;rio grande;Bº Buena Vista;-537,71911;-677,18911;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1978
+99;610.000,00;aeropuerto;rio grande;Bº Aeropuerto;-537,88911;-677,48911;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1979
+100;1.280.000,00;barrancas;rio grande;Bº Barrancas;-537,59911;-677,25911;5;170;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1980
+101;760.000,00;centro;rio grande;Av. San Martín 1200;-53,786591;-67,701911;3;68;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1981
+102;840.000,00;chacra II;rio grande;Bº Chacra II;-537,73919;-677,06919;3;78;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1982
+103;690.000,00;vapor amadeo;rio grande;Bº Vapor Amadeo;-537,81911;-677,14911;2;52;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1983
+104;1.080.000,00;buena vista;rio grande;Bº Buena Vista;-537,71911;-677,18911;4;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1984
+105;740.000,00;centro;rio grande;Perito Moreno 450;-53,787668;-67,700679;2;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1985
+106;580.000,00;aeropuerto;rio grande;Bº Aeropuerto;-537,88911;-677,48911;1;38;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1986
+107;1.420.000,00;barrancas;rio grande;Barrio Barrancas;-537,59911;-677,25911;6;210;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1987
+108; $450,00;Chacra XI;rio grande;Chacra XI;null;null;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat148
+109; $370,00;Chacra IX;rio grande;Chacra IX;null;null;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat149
+110; $690,00;Centro;rio grande;Plaza Almirante Brown;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat150
+111; $840,00;Centro;rio grande;Fagnano 800;null;null;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
+112; $330,00;Punta Popper;rio grande;Punta Popper;null;null;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat152
+113; $600,00;Mutual;rio grande;Barrio Mutual;null;null;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat153
+114; $820,00;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
+115;1.180.000;Centro;rio grande;Zona Centro;null;null;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
+116;1.200.000;Chacra II;rio grande;Barrio La Flor;null;null;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
+117;1.100.000;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
+118;1.350.000;Chacra II;rio grande;Chacra II;null;null;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
+119;2.000.000;Mutual;rio grande;Barrio Mutual;null;null;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
+120;2.400.000;Barrancas;rio grande;Barrio Barrancas;null;null;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
+121;1.500.000;Profesionales;rio grande;Barrio Profesionales;null;null;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
+122;1.500.000;Centro;rio grande;Zona Centro;null;null;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
+123; $620,00;Malvinas Argentinas;rio grande;Chacra XIII;null;null;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat163
+124; $670,00;Centro;rio grande;Belgrano 650;null;null;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat164
+125; $740,00;Centro;rio grande;Rosales 430;null;null;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
+126; $920,00;Chacra II;rio grande;Chacra II;null;null;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
+127;1.050.000;Buena Vista;rio grande;Buena Vista;null;null;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
+128; $580,00;Punta Popper;rio grande;Punta Popper;null;null;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat168
+129; $790,00;Centro;rio grande;Av. San Martín 1100;null;null;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
+130;1.180.000;Chacra IV;rio grande;Chacra IV;null;null;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
+131;1.260.000;Barrancas;rio grande;Barrancas;null;null;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
+132; $520,00;Chacra XIII;rio grande;Chacra XIII;null;null;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat172
+133; $870,00;Mutual;rio grande;Mutual;null;null;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
+134; $760,00;Centro;rio grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
+135; $940,00;Vapor Amadeo;rio grande;Vapor Amadeo;null;null;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
+136; $690,00;Austral;rio grande;Austral;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat176
+137;1.380.000;Chacra II;rio grande;Chacra II;null;null;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
+138; $450,00;Chacra XI;Río Grande;Chacra XI;null;null;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat148
+139; $370,00;Chacra IX;Río Grande;Chacra IX;null;null;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat149
+140; $690,00;Centro;Río Grande;Plaza Almirante Brown;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat150
+141; $840,00;Centro;Río Grande;Fagnano 800;-53,788096;-67,700189;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
+142; $330,00;Punta Popper;Río Grande;Punta Popper;null;null;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat152
+143; $600,00;Mutual;Río Grande;Barrio Mutual;null;null;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat153
+144; $820,00;Chacra IV;Río Grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
+145;1.180.000;Centro;Río Grande;Zona Centro;null;null;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
+146;1.200.000;Chacra II;Río Grande;Barrio La Flor;null;null;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
+147;1.100.000;Chacra IV;Río Grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
+148;1.350.000;Chacra II;Río Grande;Chacra II;null;null;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
+149;2.000.000;Mutual;Río Grande;Barrio Mutual;null;null;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
+150;2.400.000;Barrancas;Río Grande;Barrio Barrancas;null;null;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
+151;1.500.000;Profesionales;Río Grande;Barrio Profesionales;null;null;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
+152;1.500.000;Centro;Río Grande;Zona Centro;null;null;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
+153; $620,00;Malvinas Argentinas;Río Grande;Chacra XIII;null;null;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat163
+154; $670,00;Centro;Río Grande;Belgrano 650;null;null;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat164
+155; $740,00;Centro;Río Grande;Rosales 430;null;null;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
+156; $920,00;Chacra II;Río Grande;Chacra II;null;null;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
+157;1.050.000;Buena Vista;Río Grande;Buena Vista;null;null;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
+158; $580,00;Punta Popper;Río Grande;Punta Popper;null;null;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat168
+159; $790,00;Centro;Río Grande;Av. San Martín 1100;null;null;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
+160;1.180.000;Chacra IV;Río Grande;Chacra IV;null;null;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
+161;1.260.000;Barrancas;Río Grande;Barrancas;null;null;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
+162; $520,00;Chacra XIII;Río Grande;Chacra XIII;null;null;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat172
+163; $870,00;Mutual;Río Grande;Mutual;null;null;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
+164; $760,00;Centro;Río Grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
+165; $940,00;Vapor Amadeo;Río Grande;Vapor Amadeo;null;null;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
+166; $690,00;Austral;Río Grande;Austral;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat176
+167;1.380.000;Chacra II;Río Grande;Chacra II;null;null;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
+168;;;;;;;;;;;;;;;;;;;
+169;;;;;;;;;;;;;;;;;;;
+170;;;;;;;;;;;;;;;;;;;
+171;;;;;;;;;;;;;;;;;;;
+172;;;;;;;;;;;;;;;;;;;
+173;;;;;;;;;;;;;;;;;;;
+174;;;;;;;;;;;;;;;;;;;
+175;;;;;;;;;;;;;;;;;;;
+176;;;;;;;;;;;;;;;;;;;
+177;;;;;;;;;;;;;;;;;;;
+178;;;;;;;;;;;;;;;;;;;
+179;;;;;;;;;;;;;;;;;;;
+180;;;;;;;;;;;;;;;;;;;
+181;;;;;;;;;;;;;;;;;;;
+182;;;;;;;;;;;;;;;;;;;
+183;;;;;;;;;;;;;;;;;;;
+184;;;;;;;;;;;;;;;;;;;
+185;;;;;;;;;;;;;;;;;;;
+186;;;;;;;;;;;;;;;;;;;
+187;;;;;;;;;;;;;;;;;;;
+188;;;;;;;;;;;;;;;;;;;
+189;;;;;;;;;;;;;;;;;;;
+190;;;;;;;;;;;;;;;;;;;
+191;;;;;;;;;;;;;;;;;;;
+192;;;;;;;;;;;;;;;;;;;
+193;;;;;;;;;;;;;;;;;;;
+194;;;;;;;;;;;;;;;;;;;
+195;;;;;;;;;;;;;;;;;;;
+196;;;;;;;;;;;;;;;;;;;
+197;;;;;;;;;;;;;;;;;;;
+198;;;;;;;;;;;;;;;;;;;
+199;;;;;;;;;;;;;;;;;;;
+200;;;;;;;;;;;;;;;;;;;
+201;;;;;;;;;;;;;;;;;;;
+202;;;;;;;;;;;;;;;;;;;
+203;;;;;;;;;;;;;;;;;;;
+204;;;;;;;;;;;;;;;;;;;
+205;;;;;;;;;;;;;;;;;;;
+206;;;;;;;;;;;;;;;;;;;
+207;;;;;;;;;;;;;;;;;;;
+208;;;;;;;;;;;;;;;;;;;
+209;;;;;;;;;;;;;;;;;;;
+210;;;;;;;;;;;;;;;;;;;
+211;;;;;;;;;;;;;;;;;;;
+212;;;;;;;;;;;;;;;;;;;
+213;;;;;;;;;;;;;;;;;;;
+214;;;;;;;;;;;;;;;;;;;
+215;;;;;;;;;;;;;;;;;;;
+216;;;;;;;;;;;;;;;;;;;
+217;;;;;;;;;;;;;;;;;;;
+218;;;;;;;;;;;;;;;;;;;
+219;;;;;;;;;;;;;;;;;;;
+220;;;;;;;;;;;;;;;;;;;
+221;;;;;;;;;;;;;;;;;;;
+222;;;;;;;;;;;;;;;;;;;
+223;;;;;;;;;;;;;;;;;;;
+224;;;;;;;;;;;;;;;;;;;
+225;;;;;;;;;;;;;;;;;;;
+226;;;;;;;;;;;;;;;;;;;
+227;;;;;;;;;;;;;;;;;;;
+228;;;;;;;;;;;;;;;;;;;
+229;;;;;;;;;;;;;;;;;;;
+230;;;;;;;;;;;;;;;;;;;
+231;;;;;;;;;;;;;;;;;;;
+232;;;;;;;;;;;;;;;;;;;
+233;;;;;;;;;;;;;;;;;;;
+234;;;;;;;;;;;;;;;;;;;
+235;;;;;;;;;;;;;;;;;;;
+236;;;;;;;;;;;;;;;;;;;
+237;;;;;;;;;;;;;;;;;;;
+238;;;;;;;;;;;;;;;;;;;
+239;;;;;;;;;;;;;;;;;;;
+240;;;;;;;;;;;;;;;;;;;
+241;;;;;;;;;;;;;;;;;;;
+242;;;;;;;;;;;;;;;;;;;
+243;;;;;;;;;;;;;;;;;;;
+244;;;;;;;;;;;;;;;;;;;
+245;;;;;;;;;;;;;;;;;;;
+246;;;;;;;;;;;;;;;;;;;
+247;;;;;;;;;;;;;;;;;;;
+248;;;;;;;;;;;;;;;;;;;
+249;;;;;;;;;;;;;;;;;;;
+250;;;;;;;;;;;;;;;;;;;
+251;;;;;;;;;;;;;;;;;;;
+252;;;;;;;;;;;;;;;;;;;
+253;;;;;;;;;;;;;;;;;;;
+254;;;;;;;;;;;;;;;;;;;
+255;;;;;;;;;;;;;;;;;;;
+256;;;;;;;;;;;;;;;;;;;
+257;;;;;;;;;;;;;;;;;;;
+258;;;;;;;;;;;;;;;;;;;
+259;;;;;;;;;;;;;;;;;;;
+260;;;;;;;;;;;;;;;;;;;
+261;;;;;;;;;;;;;;;;;;;
+262;;;;;;;;;;;;;;;;;;;
+263;;;;;;;;;;;;;;;;;;;
+264;;;;;;;;;;;;;;;;;;;
+265;;;;;;;;;;;;;;;;;;;
+266;;;;;;;;;;;;;;;;;;;
+267;;;;;;;;;;;;;;;;;;;
+268;;;;;;;;;;;;;;;;;;;
+269;;;;;;;;;;;;;;;;;;;
+270;;;;;;;;;;;;;;;;;;;
+271;;;;;;;;;;;;;;;;;;;
+272;;;;;;;;;;;;;;;;;;;
+273;;;;;;;;;;;;;;;;;;;
+274;;;;;;;;;;;;;;;;;;;
+275;;;;;;;;;;;;;;;;;;;
+276;;;;;;;;;;;;;;;;;;;
+277;;;;;;;;;;;;;;;;;;;
+278;;;;;;;;;;;;;;;;;;;
+279;;;;;;;;;;;;;;;;;;;
+280;;;;;;;;;;;;;;;;;;;
+281;;;;;;;;;;;;;;;;;;;
+282;;;;;;;;;;;;;;;;;;;
+283;;;;;;;;;;;;;;;;;;;
+284;;;;;;;;;;;;;;;;;;;
+285;;;;;;;;;;;;;;;;;;;
+286;;;;;;;;;;;;;;;;;;;
+287;;;;;;;;;;;;;;;;;;;
+288;;;;;;;;;;;;;;;;;;;
+289;;;;;;;;;;;;;;;;;;;
+290;;;;;;;;;;;;;;;;;;;
+291;;;;;;;;;;;;;;;;;;;
+292;;;;;;;;;;;;;;;;;;;
+293;;;;;;;;;;;;;;;;;;;
+294;;;;;;;;;;;;;;;;;;;
+295;;;;;;;;;;;;;;;;;;;
+296;;;;;;;;;;;;;;;;;;;
+297;;;;;;;;;;;;;;;;;;;
+298;;;;;;;;;;;;;;;;;;;
+299;;;;;;;;;;;;;;;;;;;
+300;;;;;;;;;;;;;;;;;;;
+301;;;;;;;;;;;;;;;;;;;
+302;;;;;;;;;;;;;;;;;;;
+303;;;;;;;;;;;;;;;;;;;
+304;;;;;;;;;;;;;;;;;;;
+305;;;;;;;;;;;;;;;;;;;
+306;;;;;;;;;;;;;;;;;;;
+307;;;;;;;;;;;;;;;;;;;
+308;;;;;;;;;;;;;;;;;;;
+309;;;;;;;;;;;;;;;;;;;
+310;;;;;;;;;;;;;;;;;;;
+311;;;;;;;;;;;;;;;;;;;
+312;;;;;;;;;;;;;;;;;;;
+313;;;;;;;;;;;;;;;;;;;
+314;;;;;;;;;;;;;;;;;;;
+315;;;;;;;;;;;;;;;;;;;
+316;;;;;;;;;;;;;;;;;;;
+317;;;;;;;;;;;;;;;;;;;
+318;;;;;;;;;;;;;;;;;;;
+319;;;;;;;;;;;;;;;;;;;
+320;;;;;;;;;;;;;;;;;;;
+321;;;;;;;;;;;;;;;;;;;
+322;;;;;;;;;;;;;;;;;;;
+323;;;;;;;;;;;;;;;;;;;
+324;;;;;;;;;;;;;;;;;;;
+325;;;;;;;;;;;;;;;;;;;
+326;;;;;;;;;;;;;;;;;;;
+327;;;;;;;;;;;;;;;;;;;
+328;;;;;;;;;;;;;;;;;;;
+329;;;;;;;;;;;;;;;;;;;
+330;;;;;;;;;;;;;;;;;;;
+331;;;;;;;;;;;;;;;;;;;
+332;;;;;;;;;;;;;;;;;;;
+333;;;;;;;;;;;;;;;;;;;
+334;;;;;;;;;;;;;;;;;;;
+335;;;;;;;;;;;;;;;;;;;
+336;;;;;;;;;;;;;;;;;;;
+337;;;;;;;;;;;;;;;;;;;
+338;;;;;;;;;;;;;;;;;;;
+339;;;;;;;;;;;;;;;;;;;
+340;;;;;;;;;;;;;;;;;;;
+341;;;;;;;;;;;;;;;;;;;
+342;;;;;;;;;;;;;;;;;;;
+343;;;;;;;;;;;;;;;;;;;
+344;;;;;;;;;;;;;;;;;;;
+345;;;;;;;;;;;;;;;;;;;
+346;;;;;;;;;;;;;;;;;;;
+347;;;;;;;;;;;;;;;;;;;
+348;;;;;;;;;;;;;;;;;;;
+349;;;;;;;;;;;;;;;;;;;
+350;;;;;;;;;;;;;;;;;;;
+351;;;;;;;;;;;;;;;;;;;
+352;;;;;;;;;;;;;;;;;;;
+353;;;;;;;;;;;;;;;;;;;
+354;;;;;;;;;;;;;;;;;;;
+355;;;;;;;;;;;;;;;;;;;
+356;;;;;;;;;;;;;;;;;;;
+357;;;;;;;;;;;;;;;;;;;
+358;;;;;;;;;;;;;;;;;;;
+359;;;;;;;;;;;;;;;;;;;
+360;;;;;;;;;;;;;;;;;;;
+361;;;;;;;;;;;;;;;;;;;
+362;;;;;;;;;;;;;;;;;;;
+363;;;;;;;;;;;;;;;;;;;
+364;;;;;;;;;;;;;;;;;;;
+365;;;;;;;;;;;;;;;;;;;
+366;;;;;;;;;;;;;;;;;;;
+367;;;;;;;;;;;;;;;;;;;
+368;;;;;;;;;;;;;;;;;;;
+369;;;;;;;;;;;;;;;;;;;
+370;;;;;;;;;;;;;;;;;;;
+371;;;;;;;;;;;;;;;;;;;
+372;;;;;;;;;;;;;;;;;;;
+373;;;;;;;;;;;;;;;;;;;
+374;;;;;;;;;;;;;;;;;;;
+375;;;;;;;;;;;;;;;;;;;
+376;;;;;;;;;;;;;;;;;;;
+377;;;;;;;;;;;;;;;;;;;
+378;;;;;;;;;;;;;;;;;;;
+379;;;;;;;;;;;;;;;;;;;
+380;;;;;;;;;;;;;;;;;;;
+381;;;;;;;;;;;;;;;;;;;
+382;;;;;;;;;;;;;;;;;;;
+383;;;;;;;;;;;;;;;;;;;
+384;;;;;;;;;;;;;;;;;;;
+385;;;;;;;;;;;;;;;;;;;
+386;;;;;;;;;;;;;;;;;;;
+387;;;;;;;;;;;;;;;;;;;
+388;;;;;;;;;;;;;;;;;;;
+389;;;;;;;;;;;;;;;;;;;
+390;;;;;;;;;;;;;;;;;;;
+391;;;;;;;;;;;;;;;;;;;
+392;;;;;;;;;;;;;;;;;;;
+393;;;;;;;;;;;;;;;;;;;
+394;;;;;;;;;;;;;;;;;;;
+395;;;;;;;;;;;;;;;;;;;
+396;;;;;;;;;;;;;;;;;;;
+397;;;;;;;;;;;;;;;;;;;
+398;;;;;;;;;;;;;;;;;;;
+399;;;;;;;;;;;;;;;;;;;
+400;;;;;;;;;;;;;;;;;;;
+401;;;;;;;;;;;;;;;;;;;
+402;;;;;;;;;;;;;;;;;;;
+403;;;;;;;;;;;;;;;;;;;
+404;;;;;;;;;;;;;;;;;;;
+405;;;;;;;;;;;;;;;;;;;
+406;;;;;;;;;;;;;;;;;;;
+407;;;;;;;;;;;;;;;;;;;
+408;;;;;;;;;;;;;;;;;;;
+409;;;;;;;;;;;;;;;;;;;
+410;;;;;;;;;;;;;;;;;;;
+411;;;;;;;;;;;;;;;;;;;
+412;;;;;;;;;;;;;;;;;;;
+413;;;;;;;;;;;;;;;;;;;
+414;;;;;;;;;;;;;;;;;;;
+415;;;;;;;;;;;;;;;;;;;
+416;;;;;;;;;;;;;;;;;;;
+417;;;;;;;;;;;;;;;;;;;
+418;;;;;;;;;;;;;;;;;;;
+419;;;;;;;;;;;;;;;;;;;
+420;;;;;;;;;;;;;;;;;;;
+421;;;;;;;;;;;;;;;;;;;
+422;;;;;;;;;;;;;;;;;;;
+423;;;;;;;;;;;;;;;;;;;
+424;;;;;;;;;;;;;;;;;;;
+425;;;;;;;;;;;;;;;;;;;
+426;;;;;;;;;;;;;;;;;;;
+427;;;;;;;;;;;;;;;;;;;
+428;;;;;;;;;;;;;;;;;;;
+429;;;;;;;;;;;;;;;;;;;
+430;;;;;;;;;;;;;;;;;;;
+431;;;;;;;;;;;;;;;;;;;
+432;;;;;;;;;;;;;;;;;;;
+433;;;;;;;;;;;;;;;;;;;
+434;;;;;;;;;;;;;;;;;;;
+435;;;;;;;;;;;;;;;;;;;
+436;;;;;;;;;;;;;;;;;;;
+437;;;;;;;;;;;;;;;;;;;
+438;;;;;;;;;;;;;;;;;;;
+439;;;;;;;;;;;;;;;;;;;
+440;;;;;;;;;;;;;;;;;;;
+441;;;;;;;;;;;;;;;;;;;
+442;;;;;;;;;;;;;;;;;;;
+443;;;;;;;;;;;;;;;;;;;
+444;;;;;;;;;;;;;;;;;;;
+445;;;;;;;;;;;;;;;;;;;
+446;;;;;;;;;;;;;;;;;;;
+447;;;;;;;;;;;;;;;;;;;
+448;;;;;;;;;;;;;;;;;;;
+449;;;;;;;;;;;;;;;;;;;
+450;;;;;;;;;;;;;;;;;;;
+451;;;;;;;;;;;;;;;;;;;
+452;;;;;;;;;;;;;;;;;;;
+453;;;;;;;;;;;;;;;;;;;
+454;;;;;;;;;;;;;;;;;;;
+455;;;;;;;;;;;;;;;;;;;
+456;;;;;;;;;;;;;;;;;;;
+457;;;;;;;;;;;;;;;;;;;
+458;;;;;;;;;;;;;;;;;;;
+459;;;;;;;;;;;;;;;;;;;
+460;;;;;;;;;;;;;;;;;;;
+461;;;;;;;;;;;;;;;;;;;
+462;;;;;;;;;;;;;;;;;;;
+463;;;;;;;;;;;;;;;;;;;
+464;;;;;;;;;;;;;;;;;;;
+465;;;;;;;;;;;;;;;;;;;
+466;;;;;;;;;;;;;;;;;;;
+467;;;;;;;;;;;;;;;;;;;
+468;;;;;;;;;;;;;;;;;;;
+469;;;;;;;;;;;;;;;;;;;
+470;;;;;;;;;;;;;;;;;;;
+471;;;;;;;;;;;;;;;;;;;
+472;;;;;;;;;;;;;;;;;;;
+473;;;;;;;;;;;;;;;;;;;
+474;;;;;;;;;;;;;;;;;;;
+475;;;;;;;;;;;;;;;;;;;
+476;;;;;;;;;;;;;;;;;;;
+477;;;;;;;;;;;;;;;;;;;
+478;;;;;;;;;;;;;;;;;;;
+479;;;;;;;;;;;;;;;;;;;
+480;;;;;;;;;;;;;;;;;;;
+481;;;;;;;;;;;;;;;;;;;
+482;;;;;;;;;;;;;;;;;;;
+483;;;;;;;;;;;;;;;;;;;
+484;;;;;;;;;;;;;;;;;;;
+485;;;;;;;;;;;;;;;;;;;
+486;;;;;;;;;;;;;;;;;;;
+487;;;;;;;;;;;;;;;;;;;
+488;;;;;;;;;;;;;;;;;;;
+489;;;;;;;;;;;;;;;;;;;
+490;;;;;;;;;;;;;;;;;;;
+491;;;;;;;;;;;;;;;;;;;
+492;;;;;;;;;;;;;;;;;;;
+493;;;;;;;;;;;;;;;;;;;
+494;;;;;;;;;;;;;;;;;;;
+495;;;;;;;;;;;;;;;;;;;
+496;;;;;;;;;;;;;;;;;;;
+497;;;;;;;;;;;;;;;;;;;
+498;;;;;;;;;;;;;;;;;;;
+499;;;;;;;;;;;;;;;;;;;
+500;;;;;;;;;;;;;;;;;;;
+501;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
