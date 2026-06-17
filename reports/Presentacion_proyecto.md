@@ -33,8 +33,8 @@ Propuesta de valor (Plus del proyecto)
 Como extensión del proyecto, se propone analizar la evolución de los precios de alquiler en relación con la inflación, utilizando datos del INDEC.
 Cierre personal
 Elegí este tema porque considero que es una problemática cercana y relevante en mi entorno, y me interesa aplicar herramientas de ciencia de datos para analizar situaciones reales. Además, trabajar con datos locales representa un desafío adicional, ya que implica no solo modelar, sino también construir el dataset, lo cual aporta valor al proyecto.
-Agradezco cualquier sugerencia o aporte que me ayude a mejorar la propuesta, especialmente en relación con las variables a considerar o posibles fuentes de datos locales que puedan enriquecer el análisis. ¡Los leo! 
+Agradezco cualquier sugerencia o aporte que me ayude a mejorar la propuesta, especialmente en relación con las variables a considerar o posibles fuentes de datos locales que puedan enriquecer el análisis. 
 
 
 
-Repositorio GitHub:
+Link al Video de Presentacion:
