@@ -7,6 +7,8 @@
 **Lionel Alfredo Martínez**
 Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial
 
+Link del video presentacion: https://youtu.be/I9ejc0LsFcc
+
 ---
 
 # Descripción del Proyecto
