@@ -191,6 +191,7 @@ El modelo Random Forest presentó el mejor desempeño, alcanzando un coeficiente
 
 Estos resultados permiten disponer de una herramienta de apoyo para la toma de decisiones dentro del mercado inmobiliario local.
 
+Una limitación importante del proyecto es el tamaño del conjunto de datos. Al contar con 167 registros, los resultados obtenidos deben interpretarse con cautela, ya que una muestra más amplia podría mejorar la capacidad de generalización de los modelos.
 ---
 
 # Trabajo Futuro
