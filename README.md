@@ -13,36 +13,26 @@ Link del video presentacion: https://youtu.be/I9ejc0LsFcc
 
 # Descripción del Proyecto
 
-Este proyecto tiene como objetivo desarrollar un modelo de Aprendizaje Automático capaz de estimar el precio mensual de alquiler de propiedades ubicadas en la ciudad de Río Grande, Tierra del Fuego.
+Este proyecto desarrolla un modelo de Aprendizaje Automático orientado a la predicción de precios de alquileres en la ciudad de Río Grande, Tierra del Fuego.
 
-Para ello se construyó un dataset propio a partir de publicaciones inmobiliarias reales obtenidas de diferentes portales y sitios web locales.
+A partir de información obtenida de publicaciones inmobiliarias reales, se construyó un dataset propio y se evaluaron distintos modelos de regresión con el objetivo de estimar el valor mensual de alquiler de una propiedad en función de sus características.
 
-El problema fue abordado como una tarea de **Aprendizaje Supervisado de tipo Regresión**, utilizando diferentes algoritmos para comparar su desempeño y seleccionar el modelo más preciso.
+El trabajo incluye las etapas de:
 
----
-
-# Objetivos
-
-## Objetivo General
-
-Desarrollar un modelo predictivo capaz de estimar el precio de alquiler de una propiedad en Río Grande utilizando características relevantes del inmueble.
-
-## Objetivos Específicos
-
-* Construir un dataset representativo del mercado inmobiliario local.
-* Realizar tareas de limpieza y normalización de datos.
-* Desarrollar un análisis exploratorio de datos (EDA).
-* Entrenar modelos de regresión utilizando Scikit-Learn.
-* Comparar el desempeño de los modelos mediante métricas estadísticas.
-* Identificar las variables con mayor influencia sobre el precio de alquiler.
+* Recolección y construcción del dataset.
+* Limpieza y preparación de datos.
+* Análisis exploratorio de datos (EDA).
+* Entrenamiento y evaluación de modelos predictivos.
+* Validación cruzada.
+* Análisis de residuos.
+* Comparación de resultados.
+* Discusión de limitaciones y propuestas de mejora.
 
 ---
 
-# Origen de los Datos
+# Dataset
 
-Los datos fueron obtenidos mediante relevamiento manual de publicaciones inmobiliarias de Río Grande.
-
-Fuentes consultadas:
+El dataset fue construido manualmente a partir de publicaciones inmobiliarias de:
 
 * Mercado Libre Inmuebles
 * Argenprop
@@ -50,20 +40,23 @@ Fuentes consultadas:
 * Mac Rae Propiedades
 * Grupo Inversión
 
-Los registros fueron recopilados entre mayo y junio de 2026.
+### Características generales
+
+* 167 registros
+* 20 variables
+* Propiedades ubicadas en Río Grande, Tierra del Fuego
+* Información recopilada durante mayo y junio de 2026
+
+Variable objetivo:
+
+**Precio de alquiler (ARS)**
 
 ---
 
-# Dataset
-
-El conjunto de datos final contiene:
-
-* **167 registros**
-* **20 variables**
-
-Variables principales:
+# Variables utilizadas en el modelado
 
 * Barrio
+* Ciudad
 * Ambientes
 * Metros²
 * Tipo_propiedad
@@ -73,70 +66,122 @@ Variables principales:
 * Cochera
 * Mascotas_permitidas
 * Expensas_incluidas
-* Latitud
-* Longitud
-* Precio (variable objetivo)
+
+Variable objetivo:
+
+* Precio
 
 ---
 
-# Análisis Exploratorio de Datos (EDA)
-
-Durante el análisis exploratorio se estudiaron:
-
-* Distribución de precios de alquiler.
-* Precio según tipo de propiedad.
-* Relación entre superficie y precio.
-* Precio promedio por barrio.
-* Estadísticas descriptivas generales.
-
-Principales hallazgos:
-
-* Existe una relación positiva entre superficie y precio.
-* Las casas presentan los alquileres promedio más elevados.
-* Los barrios Barrancas, Mutual y Profesional registran algunos de los valores promedio más altos.
-* Los precios presentan una distribución asimétrica positiva.
-
----
-
-# Modelos Implementados
-
-Se evaluaron tres modelos de regresión:
+# Modelos evaluados
 
 ## 1. Regresión Lineal
 
-Modelo base utilizado para establecer una referencia inicial.
+Resultados:
+
+* MAE: 127.095
+* RMSE: 186.998
+* R²: 0.757
+
+---
 
 ## 2. Árbol de Decisión
 
-Permite capturar relaciones no lineales entre variables.
+Resultados:
+
+* MAE: 75.588
+* RMSE: 148.492
+* R²: 0.847
+
+---
 
 ## 3. Random Forest
 
-Modelo basado en múltiples árboles de decisión que mejora la precisión y reduce el sobreajuste.
+Resultados:
+
+* MAE: 74.630
+* RMSE: 109.781
+* R²: 0.916
+
+Fue el modelo con mejor desempeño general.
 
 ---
 
-# Resultados
+# Validación Cruzada
 
-| Modelo            | MAE     | RMSE    | R²    |
-| ----------------- | ------- | ------- | ----- |
-| Regresión Lineal  | 127.095 | 186.998 | 0.757 |
-| Árbol de Decisión | 75.588  | 148.492 | 0.847 |
-| Random Forest     | 74.630  | 109.781 | 0.916 |
+Se aplicó validación cruzada de 5 particiones (5-Fold Cross Validation) sobre el modelo Random Forest.
+
+Esta técnica permitió evaluar la capacidad de generalización del modelo sobre distintos subconjuntos de datos, obteniendo una estimación más robusta del desempeño esperado frente a nuevos casos.
 
 ---
 
-# Mejor Modelo
+# Análisis de Residuos
 
-### Random Forest
+Se realizó un análisis de residuos utilizando las predicciones obtenidas por el modelo Random Forest.
 
-Resultados obtenidos:
+El objetivo fue verificar la distribución de los errores y detectar posibles patrones sistemáticos.
 
-* MAE = 74.630
-* RMSE = 109.781
-* R² = 0.916
+Los resultados muestran una distribución razonablemente aleatoria alrededor de cero, lo que indica que el modelo captura adecuadamente la relación entre las variables predictoras y el precio de alquiler.
 
-El modelo logró explicar aproximadamente el 91,6% de la variabilidad observada en los precios de alquiler, obteniendo el mejor desempeño general del estudio.
+---
+
+# Estructura del Repositorio
+
+```text
+Aprendizaje_Automatico_Parcial_2026
+│
+├── data
+│   ├── raw
+│   └── processed
+│
+├── notebooks
+│   ├── Alquileres_RioGrande.ipynb
+    ├── Alquileres_RioGrande_(Entrega 3).ipynb
+│   └── Alquileres_RioGrande_(Final).ipynb
+│
+├── references
+│   ├── Programa Aprendizaje Automático 2026.pdf
+│   ├── Lineamientos generales.pdf
+│   └── Rúbrica de Evaluación.pdf
+│
+├── reports
+│   ├── Informe Técnico.docx
+│   ├── Diccionario de Datos.docx
+│   └── Presentacion_proyecto.md
+│
+├── models
+│
+├── src
+│
+├── README.md
+└── requirements.txt
+```
+
+# Limitaciones del Estudio
+
+* Dataset reducido (167 registros).
+* Recolección manual de datos.
+* Información correspondiente a un período específico del mercado inmobiliario.
+* Variables relevantes no disponibles, como estado de conservación, orientación, calidad constructiva o distancia a servicios.
+
+Por estos motivos, los resultados deben interpretarse como una aproximación basada en la información disponible.
+
+---
+
+# Trabajo Futuro
+
+Como líneas de mejora futuras se propone:
+
+* Ampliar el dataset incorporando nuevas publicaciones.
+* Incrementar la cobertura temporal del relevamiento.
+* Incorporar nuevas variables descriptivas.
+* Aplicar optimización de hiperparámetros.
+* Evaluar modelos más avanzados como:
+
+  * Gradient Boosting
+  * XGBoost
+  * LightGBM
+* Desarrollar una herramienta interactiva para estimación de precios.
 
 ---
 
@@ -148,65 +193,16 @@ El modelo logró explicar aproximadamente el 91,6% de la variabilidad observada 
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+* OpenPyXL
 * Google Colab
 * GitHub
 
 ---
 
-# Estructura del Repositorio
+# Conclusión
 
-Aprendizaje_Automatico_Parcial_2026/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── Alquileres_RioGrande.ipynb
-│   └── Alquileres_RioGrande_Final.ipynb
-│
-├── reports/
-│   ├── Informe Tecnico.docx
-│   ├── Diccionario de Datos.docx
-│   └── Presentacion_proyecto.md
-│
-├── references/
-│   ├── Programa Aprendizaje Automático 2026.pdf
-│   ├── Rúbrica de Evaluación.pdf
-│   └── Lineamientos generales.pdf
-│
-├── src/
-│   └── .gitkeep
-│
-├── requirements.txt
-└── README.md
+Los resultados obtenidos muestran que es posible estimar precios de alquiler utilizando técnicas de Aprendizaje Automático aplicadas a datos reales del mercado inmobiliario local.
 
----
-
-# Conclusiones
-
-Los resultados obtenidos demuestran que es posible construir modelos predictivos confiables para estimar precios de alquiler a partir de variables inmobiliarias relevantes.
-
-El modelo Random Forest presentó el mejor desempeño, alcanzando un coeficiente de determinación de 0.916 y los menores errores de predicción.
-
-Estos resultados permiten disponer de una herramienta de apoyo para la toma de decisiones dentro del mercado inmobiliario local.
-
-Una limitación importante del proyecto es el tamaño del conjunto de datos. Al contar con 167 registros, los resultados obtenidos deben interpretarse con cautela, ya que una muestra más amplia podría mejorar la capacidad de generalización de los modelos.
----
-
-# Trabajo Futuro
-
-Como posibles mejoras futuras se propone:
-
-* Incrementar el tamaño del dataset.
-* Incorporar nuevas variables relacionadas con servicios y ubicación.
-* Automatizar la actualización de datos.
-* Evaluar modelos avanzados como Gradient Boosting y XGBoost.
-
----
-
-# Repositorio GitHub
-
-Proyecto desarrollado para la materia **Aprendizaje Automático 2026** utilizando la metodología de trabajo propuesta por la cátedra y la estructura basada en Cookiecutter Data Science.
+Entre los modelos evaluados, Random Forest presentó el mejor desempeño, alcanzando un coeficiente de determinación R² de 0.916 y los menores errores de predicción, demostrando una elevada capacidad para modelar la variabilidad de los precios de alquiler en Río Grande.
 
 
